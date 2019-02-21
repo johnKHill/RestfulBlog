@@ -26,3 +26,12 @@
 * Add Update Route
 * Add Update Form
 * Add Method-Override
+
+
+# DESTROY
+* Add Destroy route
+* Add Edit and Destroy Links
+
+# Final Updates
+* Add Express Sanitizer - Sanitize blog body
+* Style index
